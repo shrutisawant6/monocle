@@ -9,4 +9,5 @@ Introducing the Monocle extension! Just hover over any text on any website, and 
  
 
 **Disclaimer**: Monocle isn’t available in the store yet, but you can still add it to your browser and start reading like a polished detective. 🧐
+
 ![SetMonocleExtension](https://github.com/user-attachments/assets/66b1ebc0-0e9d-4f80-95e9-80d238a88323)
